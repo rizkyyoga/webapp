@@ -8,6 +8,13 @@
 - unit test : junit
 - ORM : JPA + Hibernate
 - Other : java, html5, jquery
+
+### Database
+- username : root
+- password :
+- hostname : localhost
+- port : 3306
+- dbname : webapp
 	
 ### How to run
 1. open cmd/terminal
